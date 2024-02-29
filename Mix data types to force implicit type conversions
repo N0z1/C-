@@ -1,0 +1,4 @@
+string firstName = "Sara";
+int BabinniCoins = 7;
+Console.WriteLine(firstName +  " has "  +  BabinniCoins  +  " babinni coins :)");
+//Instead of adding the int variable BabinniCoins to the literal int 7, the compiler treats everything as a string and concatenates it all together.
