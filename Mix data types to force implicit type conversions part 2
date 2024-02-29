@@ -1,0 +1,3 @@
+string firstName = "Sara";
+int BabinniCoins = 7;
+Console.WriteLine(firstName +  " has "  +  (BabinniCoins + 7)  +  " babinni coins :)");
